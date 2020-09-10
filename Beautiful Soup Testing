@@ -1,0 +1,8 @@
+Testing of web scraping.
+
+Cannot extract detailed (eg monthly) FTSE list data.
+Update - seems alot of sites have blocking for bots and scraping. Most insitutions pay sub for data.
+
+Required for test code to work - externally loaded csv file of FTSE data date, ohlc, adjusted, volume.
+Test date manipulation for algorithms/comparisons
+FTSE index data will just be used for benchmarking
