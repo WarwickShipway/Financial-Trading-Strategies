@@ -18,7 +18,6 @@ Use ticker function for extraction/comparison of multiple companies shares
 Use historical data to evaluate algorithm approaches - develop automated testing/CI skills. Run historic cases with some stocks - see whether to buy a stock (and how much?), then test, eg. buy - moved up 5% in 7 days, sell down 3%, -3<hold<5
 Try Kelly Criterion, or other methods?
 
-Create a web API (python/java/other?). Plotting/presentation then becomes important
-
 Other Thoughts:
+Create a web API (python/java/other?). Plotting/presentation then becomes important
 reading online news for estimations? deep webscraping
