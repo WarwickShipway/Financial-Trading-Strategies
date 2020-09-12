@@ -15,5 +15,5 @@ Use historical data to evaluate algorithm approaches - develop automated testing
 Try Kelly Criterion, or other methods?
 
 Other Thoughts:
-Create a web API (python/java/other?). Plotting/presentation then becomes important. 
+Create a web API (python/java/other?). Plotting/presentation then becomes important. Use Django.
 Reading online news for estimations? deep webscraping. 
